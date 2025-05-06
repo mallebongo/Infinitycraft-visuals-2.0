@@ -1,0 +1,17 @@
+Element1,Element2,Result
+Wind,🔥 Fire,💨 Smoke
+Earth,Wind,🌫️ Dust
+Wind,🌬️ Wind,🌪️ Tornado
+Water,Wind,🌊 Wave
+🌪️ Tornado,🔥 Fire,🌋 Volcano
+Earth,🔥 Fire,🌋 Lava
+🌫️ Dust,🔥 Fire,🌋 Ash
+🌊 Wave,🔥 Fire,💨 Steam
+Earth,🌍 Earth,🏔️ Mountain
+Earth,🌫️ Dust,🪐 Planet
+Earth,🌊 Wave,🏖️ Sand
+Earth,Water,🌱 Plant
+Earth,🌋 Lava,🪨 Stone
+Earth,🌋 Ash,🌱 Soil
+Fire,💨 Steam,🚗 Engine
+Fire,🪐 Planet,☀️ Sun
